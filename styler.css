@@ -573,6 +573,9 @@ body {
      animation: fallingAnimation 10s;
      position: relative;
 }
+#info_text{
+     margin-right: 17%;
+}
 
 @keyframes fallingAnimation {
      100% {
@@ -937,11 +940,14 @@ body {
      margin-left: -200px;
      opacity: 0;
      transition: opacity 0.3s;
+
+          
 }
 
 .img_git:hover .tooltip {
      visibility: visible;
      opacity: 1;
+
 }
 
 .flex_git {
