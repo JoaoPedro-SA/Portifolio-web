@@ -18,7 +18,7 @@
 
 frase = " Meu Nome João Pedro Silva Antunes";
 frase2 = " Eu tenho 18 anos";
-frase3 = " Im developer front-end Junior";
+frase3 = " Im developer Full-Stack";
 
 const typeWrite = (elemento) => {
   const palavras = [frase, frase2, frase3];
